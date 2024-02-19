@@ -1,4 +1,4 @@
-name: client-tests-workflow
+name: client-tests-workflow-test
 
 on: pull_request
 
